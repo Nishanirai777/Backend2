@@ -1,1 +1,7 @@
 
+first make a folder name of miscellaneous
+then create two floder inside miscellaneous (frontend and backend)
+also create index.html file inside the frontend
+for backend  npm init -y
+also npm i express 
+touch index.js
